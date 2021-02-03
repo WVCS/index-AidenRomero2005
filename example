@@ -4,7 +4,7 @@
 <h1> Aiden's Example Website <h1> 
 
 
-<body>
+
 
 body{
 background-color:red;
@@ -13,7 +13,7 @@ background-color:red;
 
 
 h1 {color:blue;}
-
+<body>
 
 
 
